@@ -12,8 +12,8 @@ const typeDefs = gql`
     }
       
     type Query {
-        getFolderWithFiles(rootPath: String!, depth: Int = 10): Attributes,
-        getNestedFolders(rootPath: String!, depth: Int = 5): Attributes
+        getFolderWithFiles(rootPath: String!, depth: Int = 100): Attributes,
+        getNestedFolders(rootPath: String!, depth: Int = 100): Attributes
     }
 `
 
