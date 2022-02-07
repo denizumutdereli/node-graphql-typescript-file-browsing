@@ -6,6 +6,8 @@ This project is for demo purpose and live at <a href="https://graphql-typescript
 You can test it via Postman Graphql or I also built a file manager window demo with React on my <a href="https://github.com/denizumutdereli/react-graphql-file-browsing">React  Graphql File Browsing<a/> repo. 
 
 > npm install
+	
+> npm run tsc
 
 > npm start
   
