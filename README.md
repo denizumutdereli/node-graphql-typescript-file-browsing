@@ -1,9 +1,9 @@
 # Node Apollo Server with Graphql
 ## A simple local file browsing node express api built in Apollo server + Graphql + Typescript
 
-This project is for demo purpose and live at <a href="https://graphql-typescript-filebrowser.herokuapp.com/graphql">Heroku</a>
+This project is for demo purpose and live at <a href="https://graphql-typescript-filebrowser.herokuapp.com/graphql" target="_blank">Heroku</a>
 
-You can test it via Postman Graphql or I also built a file manager window demo with React on my <a href="https://github.com/denizumutdereli/react-graphql-file-browsing">React  Graphql File Browsing<a/> repo. 
+You can test it via Postman Graphql or I also built a file manager window demo with React on my <a target="_blank" href="https://github.com/denizumutdereli/react-graphql-file-browsing">React  Graphql File Browsing<a/> repo. 
 
 > npm install
 
