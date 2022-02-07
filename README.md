@@ -100,4 +100,10 @@ You can test it via Postman Graphql or I also built a file manager window demo w
 	
 ### Screenshots
   
-  <img src="./postman.JPG" alt="postman graphql query">
+<img src="./postman.JPG" alt="postman graphql query">
+	
+<img src="./reactfilemanager3.jpg" alt="react client app">
+	
+<img src="./reactfilemanager.jpg" alt="react client app">
+	
+<img src="./reactfilemanager2.jpg" alt="react client app">
